@@ -2798,8 +2798,9 @@ input, select, textarea {
 		}
 
 		.main.style20 {
-			background-image: url("images/picHeader.jpg"), url("../../images/header.jpg");
-			background-size: auto,							cover;
+			background-image: url("images/head.png"), url("../../images/header.jpg");
+			background-size: auto,
+			background-style: cover;
 		}
 
 		.main.style2 {
